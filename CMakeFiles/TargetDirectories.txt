@@ -1,0 +1,4 @@
+/home/ariel/Ariel/Task/CMakeFiles/rebuild_cache.dir
+/home/ariel/Ariel/Task/CMakeFiles/edit_cache.dir
+/home/ariel/Ariel/Task/CMakeFiles/test_server.dir
+/home/ariel/Ariel/Task/CMakeFiles/test_client.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/test_client.dir/src_client/ClientTCP.o CMakeFiles/test_client.dir/src_client/ClientUDP.o CMakeFiles/test_client.dir/src_client/main.o  -o test_client 
